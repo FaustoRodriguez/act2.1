@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Fausto",
+    "hobby": "cars",
+    "age": 21,
+    "phone": "3241022927",
+    "address": "Wall Street"
+  },
+  {
+    "name": "José",
+    "hobby": "soccer",
+    "age": 23,
+    "phone": "3230229227",
+    "address": "Sesame Street"
+  },
+  {
+    "name": "Alex",
+    "hobby": "baseball",
+    "age": 19,
+    "phone": "2532627326",
+    "address": "Wall Street"
+  },
+  {
+    "name": "Carlos",
+    "hobby": "videogames",
+    "age": 20,
+    "phone": "5526332928",
+    "address": "Wall Street"
+  }
+  ]
